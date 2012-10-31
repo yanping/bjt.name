@@ -2,11 +2,10 @@ markdown: rdiscount
 permalink: /:year/:month/:day/:title 
 title: BJT
 url: http://bjt.name
-subscribe: /feed.xml
+subscribe: http://ztpala.com/feed.xml
 exclude: [ README.md, newpost.rb ]
 domain: bjt.name
 author: Fengz
 email: enjoyforfun+blog@gmail.com
-#auto: true
 twitterID: ycf
 duoshuoShortname: sync
