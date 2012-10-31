@@ -6,6 +6,7 @@ subscribe: http://ztpala.com/feed.xml
 exclude: [ README.md, newpost.rb ]
 domain: bjt.name
 author: Fengz
+auto: true
 email: enjoyforfun+blog@gmail.com
 twitterID: ycf
 duoshuoShortname: sync
